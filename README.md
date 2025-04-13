@@ -1,4 +1,4 @@
-# 🚀 Langkah Cepat SSH GitHub di macOS (✨ Sampai Langkah 4)
+# 🚀 Langkah Cepat SSH GitHub di macOS ✨
 
 Ikuti langkah-langkah singkat ini buat nyambungin terminal macOS kamu ke GitHub via SSH! 🔐
 
